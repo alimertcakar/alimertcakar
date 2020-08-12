@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](dino.gif)
+![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)

@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at Akinon
 
-- 👨‍💻 Learn more about me at alimert.net
+- 👨‍💻 Learn more about me at https://alimert.net
 
-- 📫 Contact me at mail@alimert.net
+- 📫 Contact me: mail@alimert.net
 
 ---
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

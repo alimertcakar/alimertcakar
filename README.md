@@ -3,7 +3,7 @@
 
 <br/>
 
-<div align="center">![https:/linkedin.com/ali-mert-cakar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</div>
+<div align="center">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</div>
 
 - 🔭 I’m currently working at Akinon
 

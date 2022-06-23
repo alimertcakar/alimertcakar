@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, Ali Mert Çakar</h1>
 <h3 align="center">I'm Ali Mert Çakar, Front-end web development specialist.</h3>
 
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+---
 
 - 🔭 I’m currently working at Akinon
 
@@ -11,4 +9,7 @@
 
 - 📫 Contact me at mail@alimert.net
 
-![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)
+---
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+

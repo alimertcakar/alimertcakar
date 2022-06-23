@@ -4,6 +4,8 @@
 <br/>
 
 <p align="center">
+  [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
   ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   <img src="https://cdn.discordapp.com/attachments/959514754290954265/989626434773467146/Frame_20.png">
 </p>

@@ -6,9 +6,9 @@
 - 🔭 I’m currently working at Akinon
 
 - 👨‍💻 Learn more about me at https://alimert.net
-- 
+ 
 - 👨‍💻 See my portfolio https://alimert.net/portfolio
-- 
+
 - 📫 Contact me: mail@alimert.net
 
 ---

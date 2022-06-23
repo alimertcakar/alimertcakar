@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Ali Mert Çakar</h1>
-<h3 align="center">I'm Ali Mert Çakar, Front-end web development specialist.</h3>
+<h1 align="center">Hi 👋, I'm Ali Mert Çakar</h1>
+<h3 align="center">A Front-end web development specialist.</h3>
 
 ---
 

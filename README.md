@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mert Çakar</h1>
 <h3 align="center">A Front-end web development specialist</h3>
 
----
+<br/>
 
 - 🔭 I’m currently working at Akinon
 

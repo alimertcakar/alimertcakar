@@ -3,7 +3,7 @@
 
 <br/>
 
-![https:/linkedin.com/alimertcakar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div align="center">![https:/linkedin.com/alimertcakar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</div>
 
 - 🔭 I’m currently working at Akinon
 
